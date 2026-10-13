@@ -27,7 +27,7 @@ This repository contains the manual testing work completed for the **PickMe Mobi
 - Test Scenarios  
 - Detailed Test Cases  
 - Test Data  
-- Defect Observations (if any)  
+- Defect Observations 
 - Coverage Improvements (ongoing)
 
 ---
@@ -46,4 +46,3 @@ Additional modules and test cases will be added as testing progresses.
 
 ---
 
-## 📁 Repository Structure
