@@ -19,7 +19,6 @@ This repository contains the manual testing work completed for the **PickMe Mobi
 - Usability Testing  
 - Negative Testing  
 - Exploratory Testing  
-- Regression Testing (ongoing)
 
 ---
 
